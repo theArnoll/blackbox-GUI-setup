@@ -1,6 +1,6 @@
 # General Setup:
 
-Run `lubuntusetup.sh`
+Run `setup.sh`
 
 It will install:
 - Brave Browser
@@ -13,7 +13,7 @@ It will install:
 Username: blackbox
 
 The device I'm buying is likely 天虹 QN10 (China CCC no. 2020010901352389)  
-[Unbox video from others (zhTW)](https://youtu.be/yfO0vQPTrPM)  
+[Unbox YouTube video from others (zhTW)](https://youtu.be/yfO0vQPTrPM)  
 [Unbox paragraph (zhCN)](https://post.smzdm.com/p/akk9g20k/)  
 May not come with SATA FPC cable
 
