@@ -55,5 +55,4 @@ EOF
 ```
 ! Remember editing MatchProduct to match your device name! (You can chose to use "K400" or "Wireless PID:xxxx")
 
-4. Make it happen
-Login and reboot, your K400r will have natural scrolling, while other brand mice plugged in will remain the same.
+4. Login and reboot, your K400r will have natural scrolling, while other brand mice plugged in will remain the same.
